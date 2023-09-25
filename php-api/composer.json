@@ -1,8 +1,0 @@
-{
-
-    "name": "capstone-php-api/jwt",
-    "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should conform to the current spec.",
-    "require": {
-        "firebase/php-jwt": "^5.5"
-    }
-}
